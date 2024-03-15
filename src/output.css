@@ -1045,6 +1045,10 @@ video {
   text-transform: uppercase;
 }
 
+.italic {
+  font-style: italic;
+}
+
 .text-dark {
   --tw-text-opacity: 1;
   color: rgb(15 23 42 / var(--tw-text-opacity));
